@@ -6,7 +6,11 @@
 - I also tough it would be a cool way to learn certain skills  like cad modelling and pcb design 
 heres a few photos of the project 
 <img width="756" height="703" alt="Captura de ecrã 2026-05-13 203725" src="https://github.com/user-attachments/assets/349da26e-8a7d-42e0-8ea3-8dc6c0e4bec9" />
+
 this is the schematic 
+
 <img width="1294" height="812" alt="Captura de ecrã 2026-04-12 180635" src="https://github.com/user-attachments/assets/2cdcd637-8d99-4e56-b8e6-ab50e16ac462" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/21d5098e-a459-47dc-8b91-b4b490c6485e" />
 <img width="976" height="850" alt="image" src="https://github.com/user-attachments/assets/68bbb57b-9457-4151-94a2-8397c2e4c875" />
+<img width="451" height="679" alt="image" src="https://github.com/user-attachments/assets/ef1ba22f-c2fc-478f-a677-222fffd41f2d" />
+
