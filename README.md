@@ -2,7 +2,7 @@
 - this is a project made for the fallout project on hack club, its called **music portal**. It is a (semi) 1 to 1 replica of the radio from the game portal, but its not just a replica, it is also a **fully functional FM radio AND a blutetooth speaker**, hence the name music portal .
 - The way you use it pretty intuitive, theres a switch in the front to choose betweeen off, fm radio, and bluetooth, then theres two knobs, one to control the radio station if you're on radio mode and the other to control the volume.
 - Its powwered by an ESP32 for the main control, for the fm functions it uses the fm radio module RDA5807 with a simple amplifier circuit for the speaker, and the it uses the MAX98357 as  DAC (digital to analog converter) for the bluetooth speaker mode.
-- I made this project because portal is one of my favourite games and since the rado is one of the most iconic "symbols" of the game and so i think it would be pretty cool to have it as physical object that also has a real purpose and utility. 
+- I made this project because portal is one of my favourite games and since the radio is one of the most iconic "symbols" of the game and so i think it would be pretty cool to have it as physical object that also has a real purpose and utility. 
 - I also tough it would be a cool way to learn certain skills  like cad modelling and pcb design 
 heres a few photos of the project
 
