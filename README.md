@@ -5,7 +5,8 @@
 - I made this project because portal is one of my favourite games and since the rado is one of the most iconic "symbols" of the game and so i think it would be pretty cool to have it as physical object that also has a real purpose and utility. 
 - I also tough it would be a cool way to learn certain skills  like cad modelling and pcb design 
 heres a few photos of the project
-<img width="451" height="679" alt="image" src="https://github.com/user-attachments/assets/ef1ba22f-c2fc-478f-a677-222fffd41f2d" /> <img width="500" height="464" alt="Captura de ecrã 2026-05-13 203725" src="https://github.com/user-attachments/assets/349da26e-8a7d-42e0-8ea3-8dc6c0e4bec9" />
+<img src="https://github.com/user-attachments/assets/ef1ba22f-c2fc-478f-a677-222fffd41f2d" width="48%" /> <img src="https://github.com/user-attachments/assets/349da26e-8a7d-42e0-8ea3-8dc6c0e4bec9" width="48%" />
+
 
 <img width="1294" height="812" alt="Captura de ecrã 2026-04-12 180635" src="https://github.com/user-attachments/assets/2cdcd637-8d99-4e56-b8e6-ab50e16ac462" />
 
