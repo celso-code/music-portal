@@ -8,6 +8,7 @@
 heres a few photos of the project
 
 <img src="https://github.com/user-attachments/assets/ef1ba22f-c2fc-478f-a677-222fffd41f2d" width="48%" /> <img src="https://github.com/user-attachments/assets/349da26e-8a7d-42e0-8ea3-8dc6c0e4bec9" width="48%" />
+<img width="245" height="552" alt="image" src="https://github.com/user-attachments/assets/193984e0-5569-49e1-b0bd-4bf5c0868384" />
 
 
 <img width="1176" height="763" alt="image" src="https://github.com/user-attachments/assets/9c3fbb43-bb9c-4f17-a00c-6104432a9da8" />
