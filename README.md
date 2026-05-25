@@ -3,7 +3,7 @@
 - How do you build it ? Its pretty easy so the pcb fits in a slot in the black base part, the black lid hs also its own slot to fit it in and the white part of the case fits in 2 "poles" in the base
 - The way you use it pretty intuitive, theres a switch in the front to choose betweeen off, fm radio, and bluetooth, then theres two knobs, one to control the radio station if you're on radio mode and the other to control the volume.
 - Its powwered by an ESP32 for the main control, for the fm functions it uses the fm radio module RDA5807 with a simple amplifier circuit for the speaker, and the it uses the MAX98357 as  DAC (digital to analog converter) for the bluetooth speaker mode.
-- I made this project because portal is one of my favourite games and since the radio is one of the most iconic "symbols" of the game and so i think it would be pretty cool to have it as physical object that also has a real purpose and utility. 
+- My reason to build this project is because portal is one of my favourite games oat and since the radio is one of the most iconic "symbols" of the game  I think it would be pretty cool to have it as physical object that also has a real purpose and utility. 
 - I also tough it would be a cool way to learn certain skills  like cad modelling and pcb design 
 heres a few photos of the project
 
