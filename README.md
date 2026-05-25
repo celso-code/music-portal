@@ -12,6 +12,7 @@ heres a few photos of the project
 
 
 
-
+<img src="https://github.com/user-attachments/assets/9c87ea17-0c57-4fb5-b615-8dda7cf78f94" width="20%" /><img src="https://github.com/user-attachments/assets/865d53ca-ea6b-4b3c-8277-0f5aec0bbe8a" width="20%" />
+<img src="https://github.com/user-attachments/assets/06cda0a5-2354-4c1e-b5ae-8e0ab48365cf" width="20%" /><img src="https://github.com/user-attachments/assets/02b3ce27-76e6-4ad3-b95f-d82bc6157d61" width="20%" />
 
 
