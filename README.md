@@ -11,6 +11,8 @@ heres a few photos of the project
 
 <img width="398" height="584" alt="Captura de ecrã 2026-08-27 220318" src="https://github.com/user-attachments/assets/18766f71-532b-4a0f-bdff-1242fbfc7ac6" />
 
+<img width="955" height="833" alt="Captura de ecrã 2026-07-15 154611" src="https://github.com/user-attachments/assets/73e9470b-0c4f-40b3-9cc2-79f24bfb1262" />
+
 <img width="1311" height="863" alt="image" src="https://github.com/user-attachments/assets/74a62dd4-2e69-4abb-8114-33c0602ad9fd" />
 <img width="677" height="650" alt="image" src="https://github.com/user-attachments/assets/1d8a19e1-7be4-41ef-8607-cc12cc7d4a35" />
 
