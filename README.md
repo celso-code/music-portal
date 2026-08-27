@@ -7,8 +7,7 @@
 - I also tough it would be a cool way to learn certain skills  like cad modelling and pcb design 
 heres a few photos of the project
 
-<img width="540" height="828" alt="fallout_zine_template pdf (2)" src="https://github.com/user-attachments/assets/affdcbe8-cf70-4ac7-a77b-8f93f4bc0ca0"  />        <img width="360" height="597" alt="image" src="https://github.com/user-attachments/assets/9f8cf92f-0ba6-47a4-ba1e-00c9e5eb4437" />
-
+<img width="540" height="828" alt="fallout_zine_template pdf (2)" src="https://github.com/user-attachments/assets/affdcbe8-cf70-4ac7-a77b-8f93f4bc0ca0"  />        
 
 <img width="398" height="584" alt="Captura de ecrã 2026-08-27 220318" src="https://github.com/user-attachments/assets/18766f71-532b-4a0f-bdff-1242fbfc7ac6" />
 
